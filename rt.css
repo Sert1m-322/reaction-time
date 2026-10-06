@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    margin: 0;
+    background-color: whitesmoke ;
+}
+
+
+
+#btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 12px;
+    max-width: 400px;
+    width: 100%;
+}
+
+
+/*
+#time{
+    opacity: 0;
+}
+*/
